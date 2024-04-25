@@ -1,0 +1,2438 @@
+[
+  {
+    "id": 1,
+    "title": "The Stand",
+    "author": "Stephen King",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction", "Mystery", "Thriller"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.3,
+      "total_ratings": 100
+    },
+    "price": 19.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 2,
+    "title": "The Stand",
+    "author": "Stephen King",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.3,
+      "total_ratings": 100
+    },
+    "price": 19.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 3,
+    "title": "The Woman in Me by Britney Spears",
+    "author": "Britney Spears",
+    "narrator": "Britney Spears",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Mystery"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.8,
+      "total_ratings": 100
+    },
+    "price": 49.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 4,
+    "title": "Remarkably Bright Creatures",
+    "author": "Shelby Van Pelt",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Thriller"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.8,
+      "total_ratings": 100
+    },
+    "price": 39.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 5,
+    "title": "Spare by Prince Harry",
+    "author": "Memoir",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.7,
+      "total_ratings": 100
+    },
+    "price": 59.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 6,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Mystery"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.6,
+      "total_ratings": 100
+    },
+    "price": 49.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 7,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction", "Mystery", "Thriller"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.5,
+      "total_ratings": 100
+    },
+    "price": 39.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 8,
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.4,
+      "total_ratings": 100
+    },
+    "price": 29.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 9,
+    "title": "Outliers: The Story of Success",
+    "author": "Malcom Galdwell",
+    "narrator": "Roger Steffens",
+    "genre": "Non-Fiction",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Non-Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.3,
+      "total_ratings": 100
+    },
+    "price": 19.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 10,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "narrator": "Grover Gardner",
+    "genre": "Adventure",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Adventure"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.6,
+      "total_ratings": 100
+    },
+    "price": 59.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 11,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "narrator": "Jim Dale",
+    "genre": "Classic",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Mystery"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.5,
+      "total_ratings": 100
+    },
+    "price": 39.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 12,
+    "title": "Michelle Obama: Becoming",
+    "author": "Michelle Obama",
+    "narrator": "Michelle Obama",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.4,
+      "total_ratings": 100
+    },
+    "price": 29.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 13,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Thriller"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.3,
+      "total_ratings": 100
+    },
+    "price": 19.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 14,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.7,
+      "total_ratings": 100
+    },
+    "price": 59.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 15,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "An astronaut is stranded alone on Mars and must use his ingenuity and scientific knowledge to survive and find a way back home.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.6,
+      "total_ratings": 100
+    },
+    "price": 49.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 17,
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "Explores the history of humankind from our origins as hunter-gatherers to the 21st century. Examines our impact on the planet and ponders our future.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["History"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.5,
+      "total_ratings": 100
+    },
+    "price": 39.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 18,
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "narrator": "Trevor Noah",
+    "genre": "Sample Genre",
+    "description": "Trevor Noah's coming-of-age story in apartheid South Africa. Navigating a mixed-race identity and a turbulent political landscape with humor and resilience.",
+    "language": "French",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Thriller"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.4,
+      "total_ratings": 100
+    },
+    "price": 29.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 19,
+    "title": "The Hate U Give",
+    "author": "Angie Thomas",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.3,
+      "total_ratings": 100
+    },
+    "price": 19.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 20,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "Duke Leto Atreides accepts stewardship of the desert planet Arrakis, the only source of the spice melange, a precious commodity. Paul, his son, becomes embroiled in a fight for survival and power.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Mystery"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.9,
+      "total_ratings": 100
+    },
+    "price": 59.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 21,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "narrator": "Grover Gardner",
+    "genre": "Sample Genre",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Thriller"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.7,
+      "total_ratings": 100
+    },
+    "price": 49.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  },
+  {
+    "id": 22,
+    "title": "Project Hail Mary",
+    "author": "Stephen King",
+    "narrator": "Grover Gardner",
+    "genre": "Fiction",
+    "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides--or are chosen.",
+    "language": "English",
+    "copyright_year": 2023,
+    "publisher": "Penguin Random House Audio",
+    "num_chapters": 10,
+    "total_time": "3 hours 30 minutes",
+    "sample_audio": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-0.mp3?alt=media&token=cb052a4e-49c6-4910-8f52-ea1a24eeaff5"
+    },
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "duration": "20 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-1.mp3?alt=media&token=39dad154-9ad7-4ec9-b6a5-4f7a852c39d0",
+        "time": 19
+      },
+      {
+        "title": "Chapter 2",
+        "duration": "25 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-2.mp3?alt=media&token=edc08c5b-63c9-4015-bf32-a3f2802ee47d",
+        "time": 12
+      },
+      {
+        "title": "Chapter 3",
+        "duration": "18 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-3.mp3?alt=media&token=1c3e9110-503a-4b82-8e0d-68337eb64340",
+        "time": 9
+      },
+      {
+        "title": "Chapter 4",
+        "duration": "22 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-4.mp3?alt=media&token=45fb52f9-ade7-4e2e-b625-05ed538ea8d3",
+        "time": 6
+      },
+      {
+        "title": "Chapter 5",
+        "duration": "30 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-5.mp3?alt=media&token=61a8183a-6654-4da3-9790-66bb1fab9116",
+        "time": 19
+      },
+      {
+        "title": "Chapter 6",
+        "duration": "27 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-6.mp3?alt=media&token=9df41171-bf8d-4890-a5cc-f146b6585bc0",
+        "time": 12
+      },
+      {
+        "title": "Chapter 7",
+        "duration": "23 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-7.mp3?alt=media&token=a5a42021-a361-4f8a-a191-3d10549cc378",
+        "time": 9
+      },
+      {
+        "title": "Chapter 8",
+        "duration": "19 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-8.mp3?alt=media&token=3b6c132a-9f9d-4a57-b1ea-5d2f54c0b04f",
+        "time": 6
+      },
+      {
+        "title": "Chapter 9",
+        "duration": "24 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-9.mp3?alt=media&token=8fca84b4-59a9-407a-a3a0-5d972079f56d",
+        "time": 19
+      },
+      {
+        "title": "Chapter 10",
+        "duration": "32 minutes",
+        "url_audio": "https://firebasestorage.googleapis.com/v0/b/fastapiauth-adc2b.appspot.com/o/Sample%20Audio%2Fsample-10.mp3?alt=media&token=95cb313a-aa59-48f6-ae02-8609099ff495",
+        "time": 12
+      }
+    ],
+    "categories": ["Fiction"],
+    "translators": [
+      {
+        "name": "Jean Mark",
+        "language": "French"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Danny Blind",
+        "comment": "Very touching. I hope you release more books like this",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Jack Daniel",
+        "comment": "Listen through it while I was walking",
+        "rating": 4.5
+      }
+    ],
+    "total_reviews": 2,
+    "ratings": {
+      "average": 4.5,
+      "total_ratings": 100
+    },
+    "price": 39.99,
+    "images": [
+      {
+        "url": "https://source.unsplash.com/random/600x600",
+        "height": 600,
+        "width": 600
+      }
+    ],
+    "url_rss": "https://sample-audiobook-rss-feed.com",
+    "url_zip_file": "https://sample-audiobook-zip-file.com",
+    "url_project": "https://sample-audiobook-project-page.com",
+    "url_librivox": "https://sample-lirivox-page.com",
+    "url_iarchive": "https://sample-iarchive-page.com",
+    "url_other": "https://sample-other-page.com"
+  }
+]
